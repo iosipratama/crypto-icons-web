@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "ada-cardano",
+    "ticker": "ADA",
+    "name": "Cardano",
+    "file": "/icons/ada-cardano.svg"
+  },
+  {
+    "slug": "bnb-binancecoin",
+    "ticker": "BNB",
+    "name": "Binancecoin",
+    "file": "/icons/bnb-binancecoin.svg"
+  },
+  {
+    "slug": "btc-bitcoin",
+    "ticker": "BTC",
+    "name": "Bitcoin",
+    "file": "/icons/btc-bitcoin.svg"
+  },
+  {
+    "slug": "doge-dogecoin",
+    "ticker": "DOGE",
+    "name": "Dogecoin",
+    "file": "/icons/doge-dogecoin.svg"
+  },
+  {
+    "slug": "eth-ethereum",
+    "ticker": "ETH",
+    "name": "Ethereum",
+    "file": "/icons/eth-ethereum.svg"
+  },
+  {
+    "slug": "link-chainlink",
+    "ticker": "LINK",
+    "name": "Chainlink",
+    "file": "/icons/link-chainlink.svg"
+  },
+  {
+    "slug": "ltc-litecoin",
+    "ticker": "LTC",
+    "name": "Litecoin",
+    "file": "/icons/ltc-litecoin.svg"
+  },
+  {
+    "slug": "matic-polygon",
+    "ticker": "MATIC",
+    "name": "Polygon",
+    "file": "/icons/matic-polygon.svg"
+  },
+  {
+    "slug": "sol-solana",
+    "ticker": "SOL",
+    "name": "Solana",
+    "file": "/icons/sol-solana.svg"
+  },
+  {
+    "slug": "trx-tron",
+    "ticker": "TRX",
+    "name": "Tron",
+    "file": "/icons/trx-tron.svg"
+  },
+  {
+    "slug": "usdc-usdcoin",
+    "ticker": "USDC",
+    "name": "Usdcoin",
+    "file": "/icons/usdc-usdcoin.svg"
+  },
+  {
+    "slug": "usdt-tether",
+    "ticker": "USDT",
+    "name": "Tether",
+    "file": "/icons/usdt-tether.svg"
+  },
+  {
+    "slug": "xrp-ripple",
+    "ticker": "XRP",
+    "name": "Ripple",
+    "file": "/icons/xrp-ripple.svg"
+  }
+]

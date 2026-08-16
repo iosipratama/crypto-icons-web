@@ -1,0 +1,10 @@
+{
+  "description": "Browse, search, and copy from a comprehensive collection of 876 crypto logos in SVG format, designed for crypto project designers and developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
