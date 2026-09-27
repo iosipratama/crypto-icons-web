@@ -1,0 +1,22 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.744 15.9104V8.128H12.3136V0.287998H4.82562V31.6544H12.3136V15.9104H19.744Z" fill="url(#paint0_linear_2113_570)"/>
+<path d="M27.1744 15.9104H19.744V31.712H27.1744V15.9104Z" fill="url(#paint1_linear_2113_570)"/>
+<defs>
+<linearGradient id="paint0_linear_2113_570" x1="12.2841" y1="0.287614" x2="12.2841" y2="31.6539" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00F2FE" style="stop-color:#00F2FE;stop-color:color(display-p3 0.0000 0.9490 0.9961);stop-opacity:1;"/>
+<stop offset="0.12" stop-color="#06E9FE" style="stop-color:#06E9FE;stop-color:color(display-p3 0.0235 0.9137 0.9961);stop-opacity:1;"/>
+<stop offset="0.31" stop-color="#16CFFD" style="stop-color:#16CFFD;stop-color:color(display-p3 0.0863 0.8118 0.9922);stop-opacity:1;"/>
+<stop offset="0.55" stop-color="#30A6FC" style="stop-color:#30A6FC;stop-color:color(display-p3 0.1882 0.6510 0.9882);stop-opacity:1;"/>
+<stop offset="0.84" stop-color="#546DFB" style="stop-color:#546DFB;stop-color:color(display-p3 0.3294 0.4275 0.9843);stop-opacity:1;"/>
+<stop offset="0.99" stop-color="#694BFA" style="stop-color:#694BFA;stop-color:color(display-p3 0.4118 0.2941 0.9804);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2113_570" x1="23.4612" y1="15.9123" x2="23.4612" y2="31.7124" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00F2FE" style="stop-color:#00F2FE;stop-color:color(display-p3 0.0000 0.9490 0.9961);stop-opacity:1;"/>
+<stop offset="0.12" stop-color="#06E9FE" style="stop-color:#06E9FE;stop-color:color(display-p3 0.0235 0.9137 0.9961);stop-opacity:1;"/>
+<stop offset="0.31" stop-color="#16CFFD" style="stop-color:#16CFFD;stop-color:color(display-p3 0.0863 0.8118 0.9922);stop-opacity:1;"/>
+<stop offset="0.55" stop-color="#30A6FC" style="stop-color:#30A6FC;stop-color:color(display-p3 0.1882 0.6510 0.9882);stop-opacity:1;"/>
+<stop offset="0.84" stop-color="#546DFB" style="stop-color:#546DFB;stop-color:color(display-p3 0.3294 0.4275 0.9843);stop-opacity:1;"/>
+<stop offset="0.99" stop-color="#694BFA" style="stop-color:#694BFA;stop-color:color(display-p3 0.4118 0.2941 0.9804);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+</svg>

@@ -14,8 +14,11 @@ The `predev` and `prebuild` scripts regenerate the icon manifest automatically.
 
 - `src/main.tsx` - React entrypoint; imports `src/index.css` and mounts `src/App.tsx` into `#root`
 - `src/App.tsx` - Page shell: header, `IconExplorer`, footer; imports the generated `src/data/icons.json`
-- `src/components/IconExplorer.tsx` - Search state, live filtering, sticky search bar, result grid
-- `src/components/IconCard.tsx` - Single logo cell; fetches the SVG file and copies it to clipboard with a "Copied" confirmation
+- `src/components/IconExplorer.tsx` - Search state, ranked filtering (popular coins first), sticky search bar, `/` shortcut, result grid
+- `src/components/IconCard.tsx` - Single logo cell; click copies the SVG to clipboard, hover shows the full name and a download button
+- `src/components/Toast.tsx` - "Copied" toast; shows a one-time Ko-fi nudge per visit
+- `src/links.ts` - External URLs (Ko-fi)
+- `public/favicon.svg`, `public/apple-touch-icon.png` - Tab and home-screen icons (the logo mark)
 - `src/index.css` - Google font imports, Tailwind v4 import, `@theme` design tokens, global styles
 - `scripts/generate-manifest.mjs` - Scans `public/icons/*.svg` and writes `src/data/icons.json`. Handles both `btc.svg` and `btc-bitcoin.svg` naming
 - `public/icons/` - The SVG logo files. Filenames drive ticker/name in search
