@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2113_518)">
+<path d="M16 32.064C24.8366 32.064 32 24.9006 32 16.064C32 7.22744 24.8366 0.0639954 16 0.0639954C7.16344 0.0639954 0 7.22744 0 16.064C0 24.9006 7.16344 32.064 16 32.064Z" fill="url(#paint0_radial_2113_518)"/>
+<path d="M7.8528 7.9168C11.296 4.47359 16.384 3.6672 20.5952 5.4976L18.4 7.6928C15.4624 6.85439 12.1664 7.5904 9.8496 9.9072C6.7904 12.9664 6.4832 17.7408 8.9344 21.1392L12.2048 17.8688L14.1952 19.8592L8.9152 25.1392C8.5504 24.8512 8.1984 24.544 7.8592 24.2048C3.3536 19.712 3.3536 12.416 7.8528 7.9168Z" fill="white" style="fill:white;fill-opacity:1;"/>
+<path d="M11.4048 26.6304C15.616 28.4608 20.6976 27.6544 24.1472 24.2112C28.6464 19.712 28.6464 12.416 24.1472 7.91681C23.808 7.57761 23.456 7.27041 23.0912 6.98241L17.8112 12.2624L19.8016 14.2528L23.072 10.9824C25.5232 14.3808 25.216 19.1552 22.1568 22.2144C19.84 24.5312 16.544 25.2672 13.6064 24.4288L11.4048 26.6304Z" fill="white" style="fill:white;fill-opacity:1;"/>
+<path d="M17.9904 16.064L16 14.0736L14.0096 16.064L16 18.0544L17.9904 16.064Z" fill="white" style="fill:white;fill-opacity:1;"/>
+<path d="M12.1984 10.272L14.1888 12.2624L12.1984 14.2528L10.208 12.2624L12.1984 10.272Z" fill="white" style="fill:white;fill-opacity:1;"/>
+<path d="M21.792 19.8656L19.8016 17.8752L17.8112 19.8656L19.8016 21.856L21.792 19.8656Z" fill="white" style="fill:white;fill-opacity:1;"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_2113_518" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(16 16.064) rotate(90) scale(16)">
+<stop stop-color="#304FFE" style="stop-color:#304FFE;stop-color:color(display-p3 0.1882 0.3098 0.9961);stop-opacity:1;"/>
+<stop offset="1" stop-color="#3D5AFE" style="stop-color:#3D5AFE;stop-color:color(display-p3 0.2392 0.3529 0.9961);stop-opacity:1;"/>
+</radialGradient>
+<clipPath id="clip0_2113_518">
+<rect width="32" height="32" fill="white" style="fill:white;fill-opacity:1;"/>
+</clipPath>
+</defs>
+</svg>
